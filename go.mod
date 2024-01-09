@@ -3,7 +3,7 @@ module github.com/khulnasoft-lab/vulnmap-iac-capture
 go 1.21.6
 
 require (
-	github.com/bmatcuk/doublestar/v4 v4.6.0
+	github.com/bmatcuk/doublestar/v4 v4.6.1
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/khulnasoft-lab/go-application-framework v0.0.0-20231114160628-a5f9fc7a9c25
 	github.com/spf13/pflag v1.0.5
