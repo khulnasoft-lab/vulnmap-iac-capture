@@ -1,6 +1,6 @@
 module github.com/khulnasoft-lab/vulnmap-iac-capture
 
-go 1.21.6
+go 1.22.1
 
 require (
 	github.com/bmatcuk/doublestar/v4 v4.6.0
